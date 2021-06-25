@@ -47,7 +47,7 @@ Klik Tombol Disamping Untuk Join Ke Channel Support Kami ⪩
 
 ### String Session 
 
-Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P Untuk Pyrogram ⪩
+Klik tombol Run on repl.it Dibawah untuk membuat string milikmu, tolong pilih P Untuk Pyrogram 
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
 ### <p align="center">𝘿𝙀𝙋𝙇𝙊𝙔 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 </p>
