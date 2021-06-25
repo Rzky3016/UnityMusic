@@ -2,6 +2,7 @@
   "name": "𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾𝘽𝙊𝙏",
   "description": "Bot Yang Diperuntukkan Untuk Memutar Musik di Obrolan Suara Telegram. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
+  "logo": "https://telegra.ph/file/eed731e47ecf255db37b6.jpg",
   "repository": "https://github.com/Rzky3016/UnityMusic",
   "stack": "container",
   "env": {
