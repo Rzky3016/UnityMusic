@@ -1,5 +1,5 @@
 {
-  "name": "𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾𝘽𝙊𝙏",
+  "name": "𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾",
   "description": "Bot Yang Diperuntukkan Untuk Memutar Musik di Obrolan Suara Telegram. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/eed731e47ecf255db37b6.jpg",
@@ -35,7 +35,7 @@
     "PROJECT_NAME": {
       "description": "Nama untuk Bot musik milikmu.",
       "required": false,
-      "value": "𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾𝘽𝙊𝙏"
+      "value": "𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾"
     },
     "ASSISTANT_NAME": {
       "description": "Nama assisten untuk bot musik mu tanpa menggunakan @.",
