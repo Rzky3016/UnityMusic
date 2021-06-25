@@ -2,15 +2,36 @@
 
 **_Join [Channel Update](https://t.me/paradisesupportch) untuk melihat info seputar bot_**
 
-![Repo Size](https://img.shields.io/github/repo-size/Rzky3016/UnityMusic?&style=plastic&logo=github)
-[![GitHub issues](https://img.shields.io/github/issues/Rzky3016/UnityMusic?&style=plastic&logo=github)](https://github.com/Rzky3016/UnityMusic/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Rzky3016/UnityMusic?&style=plastic&logo=github)](https://github.com/Rzky3016/UnityMusic/graphs/commit-activity)
+<p align="center">
+   <a href="https://github.com/Rzky3016/UnityMusic/fork">
+      <img src="https://img.shields.io/github/forks/Rzky3016/UnityMusic?label=Fork&style=social">
+      
+<p align="center">
+   <a href="https://github.com/Rzky3016/UnityMusic">
+      <img src="https://img.shields.io/github/stars/Rzky3016/UnityMusic?style=social">
+      </a></p>
+      
+<p align="center">
+   <a href="https://github.com/Rzky3016/Paradise-Userbot/blob/UnityMusic/LICENSE"><img src="https://img.shields.io/github/license/Rzky3016/UnityMusic?&style=social&logo=github">
+      </a></p>
+      
+   ![Repo Size](https://img.shields.io/github/repo-size/Rzky3016/UnityMusic?&style=plastic&logo=github)
+   
+
+   [![GitHub issues](https://img.shields.io/github/issues/Rzky3016/UnityMusic?&style=plastic&logo=github)](https://github.com/Rzky3016/UnityMusic/issues)
+   
+   
+   [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Rzky3016/UnityMusic?&style=plastic&logo=github)](https://github.com/Rzky3016/UnityMusic/graphs/commit-activity)
+   
+
 [![GitHub contributors](https://img.shields.io/github/contributors/Rzky3016/UnityMusic?&style=plastic&logo=github)](https://github.com/Rzky3016/UnityMusic/graphs/contributors/)
-<p align="justify">
+   </p>
+
+<p align="center">
 <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-New Version-yellow?style=for-the-badge&logo=appveyor"/>
 </p>
 
-#### NOTE: Tolong jangan di clone, capek bikinnya :") Kalo mau silahkan fork aja.
+
 
 ![UnityMusic](https://telegra.ph/file/eed731e47ecf255db37b6.jpg)
 
@@ -116,7 +137,11 @@ saluran juga dapat digunakan sebagai pengganti c`
 - `.ok - menyetujui seseorang untuk pm Anda`
 
 - `.blok - tidak menyetujui seseorang untuk pm Anda`
-- 
-*NOTE:* _Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun_
-     :__Jangan Di Clone Bang Capek Bikinnya, Kalo Mau Fork Aja Ok__
-     :__Terimakasih Enjoyed The Bot__
+
+*Note*: _Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun_
+
+<p align="center">───────────────────────────────────────────────────────────
+
+<p align="center">Jangan Di Clone Bang Capek Bikinnya, Kalo Mau Fork Aja Ok
+
+<p align="center">Terimakasih, Enjoyed The Music.
