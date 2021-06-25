@@ -20,18 +20,18 @@ Klik tombol di bawah untuk join ke group support kami`
    <a href="https://t.me/paradiseuserbot"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
 
 ### String Session 
-`
-Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jangan T`
+
+Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jangan T
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
-### <p align="center">DEPLOY 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 ♫</p>
-`
-Klik tombol dibawah untuk deploy UNITY MUSIC`
+### <p align="center">DEPLOY 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 </p>
+
+<p align="center">Klik tombol dibawah untuk deploy 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rzky3016/UnityMusic/tree/UnityMusic"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
-### Command yang tersedia 
+### Command/Perintah Yang Tersedia
 
 - `/play <nama lagu> - putar lagu yang Anda minta`
 
@@ -55,7 +55,7 @@ Klik tombol dibawah untuk deploy UNITY MUSIC`
 
 - `/video <nama lagu> - unduh video yang Anda inginkan dengan cepat`
 
-### Khusus admin saja 
+### Khusus Admin
 
 - `/player - buka panel pengaturan pemutar musik`
 
@@ -73,7 +73,7 @@ Klik tombol dibawah untuk deploy UNITY MUSIC`
 
 - `/admincache - Segarkan daftar admin`
 
-### Perintah untuk Putar Musik Saluran Channel 
+### Perintah Untuk Putar Musik Di Saluran Channel 
 Hanya untuk admin grup tertaut:
 
 - `/cplay <nama lagu> - putar lagu yang Anda minta`
@@ -116,4 +116,7 @@ saluran juga dapat digunakan sebagai pengganti c`
 - `.ok - menyetujui seseorang untuk pm Anda`
 
 - `.blok - tidak menyetujui seseorang untuk pm Anda`
+- 
 *NOTE:* _Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun_
+     :__Jangan Di Clone Bang Capek Bikinnya, Kalo Mau Fork Aja Ok__
+     :__Terimakasih Enjoyed The Bot__
