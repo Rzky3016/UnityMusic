@@ -1,4 +1,4 @@
-# <p align="center"> UNITY MUSIC
+# <p align="center"> 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾
 
 **_Join [Channel Update](https://t.me/paradisesupportch) untuk melihat info seputar bot_**
 
@@ -10,7 +10,7 @@
 <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-New Version-yellow?style=for-the-badge&logo=appveyor"/>
 </p>
 
-#### NOTE: Tolong jangan di clone, capek editnya :") Kalo mau silahkan fork aja.
+#### NOTE: Tolong jangan di clone, capek bikinnya :") Kalo mau silahkan fork aja.
 
 ![UnityMusic](https://telegra.ph/file/eed731e47ecf255db37b6.jpg)
 
@@ -24,7 +24,7 @@ Klik tombol di bawah untuk join ke group support kami`
 Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jangan T`
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
-### <p align="left">DEPLOY UNITY MUSIC ♫</p>
+### <p align="center">DEPLOY 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 ♫</p>
 `
 Klik tombol dibawah untuk deploy UNITY MUSIC`
 
