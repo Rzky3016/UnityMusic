@@ -1,6 +1,6 @@
-# <p align="center"> 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾
+# <p align="center">✘ 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 ✘
 
-**_Join [Channel Update](https://t.me/paradisesupportch) untuk melihat info seputar bot_**
+
 
 <p align="center">
    <a href="https://github.com/Rzky3016/UnityMusic/fork">
@@ -36,16 +36,21 @@
 ![UnityMusic](https://telegra.ph/file/eed731e47ecf255db37b6.jpg)
 
 ### Group Support 
-`
-Klik tombol di bawah untuk join ke group support kami`
+
+Klik tombol di bawah untuk join ke group support kami
    <a href="https://t.me/paradiseuserbot"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
+   
+### Channel Support
+
+Klik Tombol Dibawah Untuk Join Ke Channel Support Kami 
+   <a href="https://t.me/paradisesupportch"><img src="https://img.shields.io/badge/Channel%20Support%3F-Klik Disini-yellow? &style=flat-square?&logo=telegram" width=165px></a></p>
 
 ### String Session 
 
 Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jangan T
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
-### <p align="center">DEPLOY 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 </p>
+### <p align="center">🅳🅴🅿🅻🅾🆈 🆄🅽🅸🆃🆈 🅼🆄🆂🅸🅲 </p>
 
 <p align="center">Klik tombol dibawah untuk deploy 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾
 
@@ -139,9 +144,13 @@ saluran juga dapat digunakan sebagai pengganti c`
 - `.blok - tidak menyetujui seseorang untuk pm Anda`
 
 *Note*: _Pengguna Sudo dapat menjalankan perintah apa pun di grup mana pun_
+ㅤ
+<p align="center"> ㅤㅤㅤ
+ㅤ
+<p align="center">✰─────────────────────────────────────────────────────────✰
 
-<p align="center">───────────────────────────────────────────────────────────
+<p align="center"> 🄹🄰🄽🄶🄰🄽 🄳🄸 🄲🄻🄾🄽🄴 🄱🄰🄽🄶 🄲🄰🄿🄴🄺 🄱🄸🄺🄸🄽🄽🅈🄰, 🄺🄰🄻🄾 🄼🄰🅄 🄵🄾🅁🄺 🄰🄹🄰 🄾🄺
 
-<p align="center">Jangan Di Clone Bang Capek Bikinnya, Kalo Mau Fork Aja Ok
+<p align="center"> 🅴🅽🅹🅾🆈🅴🅳 🆃🅷🅴 🅼🆄🆂🅸🅲
 
-<p align="center">Terimakasih, Enjoyed The Music.
+<p align="center"> 🅃🄷🄰🄽🄺🅂 🅈🄾🅄
