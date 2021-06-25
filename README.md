@@ -37,20 +37,20 @@
 
 ### Group Support 
 
-Klik tombol di bawah untuk join ke group support kami
+Klik Tombol Disamping Untuk Join Ke Group Support Kami ⪩
    <a href="https://t.me/paradiseuserbot"><img src="https://img.shields.io/badge/Grup%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
    
 ### Channel Support
 
-Klik Tombol Dibawah Untuk Join Ke Channel Support Kami 
-   <a href="https://t.me/paradisesupportch"><img src="https://img.shields.io/badge/Channel%20Support%3F-Klik Disini-yellow? &style=flat-square?&logo=telegram" width=165px></a></p>
+Klik Tombol Disamping Untuk Join Ke Channel Support Kami ⪩
+   <a href="https://t.me/paradisesupportch"><img src="https://img.shields.io/badge/Channel%20Support%3F-Klik Disini-yellow?&style=flat-square?&logo=telegram" width=165px></a></p>
 
 ### String Session 
 
-Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P yah jangan T
+Klik tombol Run on repl.it untuk membuat string milikmu, tolong pilih P Untuk Pyrogram ⪩
    [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Rzky3016/String-Session-Paradise)
 
-### <p align="center">🅳🅴🅿🅻🅾🆈 🆄🅽🅸🆃🆈 🅼🆄🆂🅸🅲 </p>
+### <p align="center">𝘿𝙀𝙋𝙇𝙊𝙔 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾 </p>
 
 <p align="center">Klik tombol dibawah untuk deploy 𝙐𝙉𝙄𝙏𝙔 𝙈𝙐𝙎𝙄𝘾
 
